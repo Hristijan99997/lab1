@@ -1,0 +1,14 @@
+commit 0360cde9e2cbe91861cebf3fdc84e268bd7ab82c (HEAD -> logging, 
+origin/master, master)
+Author: Hristijan Jovanovski <hristijanjovanovski97@gmail.com>
+Date:   Fri Mar 9 15:50:06 2018 +0100
+
+    modify l1.txt
+
+commit 350590f4ea354b4ade83355f918741ab2050e836
+Author: Hristijan Jovanovski <hristijanjovanovski97@gmail.com>
+Date:   Fri Mar 9 15:47:10 2018 +0100
+
+    Initial Commit
+
+
