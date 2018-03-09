@@ -1,0 +1,35 @@
+mkdir lab1
+cd lab1
+git init
+nano l1.txt
+git status
+git add l1.txt
+git status
+git commit -m "Initial Commit"
+git status
+git add --all
+git commit -m "modify l1.txt"
+git remote add origin https://github.com/Hristijan99997/lab1.git
+git push -u origin master
+git status
+git checkout -- l1.txt
+git status
+git branch logging
+git checkout logging
+git log
+nano log.txt
+git add log.txt
+git commit -m "Added log.txt file"
+git push -u origin logging
+git checkout master
+git merge logging
+git push -u origin master
+git branch -d logging
+git push origin --delete logging
+git branch allcomands
+git checkout allcomands
+nano commands.txt
+
+
+
+
